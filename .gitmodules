@@ -1,0 +1,24 @@
+[submodule "crafting.kogs"]
+	path = crafting.kogs
+	url = https://gitlab.redfoxlabs.io/wax-contracts/crafting.git
+[submodule "sales.kogs"]
+	path = sales.kogs
+	url = https://gitlab.redfoxlabs.io/wax-contracts/sales.git
+[submodule "se.tubes.kogs"]
+	path = se.tubes.kogs
+	url = https://gitlab.redfoxlabs.io/wax-contracts/setubes.git
+[submodule "new-stake"]
+	path = new-stake
+	url = https://gitlab.redfoxlabs.io/wax-contracts/stake.git
+[submodule "tubes"]
+	path = tubes
+	url = https://gitlab.redfoxlabs.io/wax-contracts/tubes.git
+[submodule "unpack"]
+	path = unpack
+	url = https://gitlab.redfoxlabs.io/wax-contracts/unpack.git
+[submodule "kogs-iapf-sale-be"]
+	path = kogs-iapf-sale-be
+	url = https://github.com/RFOX-KOGS/kogs-sales-be.git
+[submodule "python"]
+	path = python
+	url = https://github.com/RFOX-KOGS/kogs-lazy.git
